@@ -1,0 +1,1 @@
+p "hello".length + "world".length
