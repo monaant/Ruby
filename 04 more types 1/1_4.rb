@@ -1,0 +1,11 @@
+p 0.odd?
+p 1.odd?
+p 2.odd?
+p 99.odd?
+p -502.abs.odd?
+puts "-----------------"
+p 0.even?
+p 1.even?
+p 2.even?
+p 99.even?
+p -502.abs.even?
